@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "ESNext", // ya "ES6" agar "ESNext" issue kar raha ho
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "strict": true
+  }
+}
