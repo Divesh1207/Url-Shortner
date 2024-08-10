@@ -1,7 +1,8 @@
 # Full Stack Application Fundamentals
 
-
 ![WhatsApp Image 2024-08-09 at 10 13 14 PM](https://github.com/user-attachments/assets/7be3e274-43ba-439c-a798-9a419ede4218)
+
+For a detailed guide on building modern web applications, check out my [Medium blog](https://medium.com/@diveshp904/blueprint-to-build-a-step-by-step-approach-to-building-modern-web-applications-f8ff2f6f28a9).
 
 This repository demonstrates the basic fundamentals of building a full stack application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It provides a clear and structured approach, covering both backend and frontend development, and how to integrate the two effectively.
 
